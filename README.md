@@ -6,6 +6,7 @@
 [![lOutlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:verly1@outlook.com.br)
 
 ![Nicolas Verly GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasverly&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasverly&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu sei
 
