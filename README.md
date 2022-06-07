@@ -1,4 +1,4 @@
-# Oie, eu sou Nicolas Verly 🇧🇷 
+# Hey, i am Nicolas Verly ✌️
 
 
 
@@ -15,7 +15,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasverly&layout=compact&theme=vision-friendly-dark" alt="nicolasverly's most languages"/>
 </p>
 
-## 🛠️ Tecnologias que eu sei
+## 🛠️ Tecnology that i nkow
 
 <div style="display: inline_block"> <br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,7 +23,7 @@
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
-## 🖖 Curiosidade sobre mim 
-- 🌱 Além das coisas da faculdade e dos bombeiros, estudando novas linguagens de programação 
-- 🤔 Aprender com usar tudo que sei em outras liguagens de programação nas novas que estou estudando 
-- 💬 Ex-atleta profissional de natação, estagioario a bombeiro voluntario e pensando e como tirar a carteira para ser piloto de avião
+## 🖖 Curiosity about me
+- 🌱 No just samething to univercity and firefighter stuff, studying new programming languages
+- 🤔 Learning how can i use everything that i nkow abouth other programming languages, in which I'm still learning 
+- 💬 Former professional swimmer, trainee to volunteer firefighter and thinking about how to get a license to be an airline pilot (tks Topgun)
